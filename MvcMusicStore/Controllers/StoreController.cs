@@ -34,8 +34,7 @@ namespace MvcMusicStore.Controllers
         public ActionResult Index()
         {
             // Create list of genres
-            var genres = from genre in storeDB.Genres
-                         select genre.Name;
+            var genres = from genre in storeDB.Genres select genre.Name;
 
             // Create your view model
             var viewModel = new StoreIndexViewModel
