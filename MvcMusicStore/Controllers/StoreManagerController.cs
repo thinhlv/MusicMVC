@@ -159,5 +159,11 @@ namespace MvcMusicStore.Controllers
             storeDB.SaveChanges();
             return RedirectToAction("Index");
         }
+
+        public int getNewInt()
+        {
+            return 1;
+        }
+
     }
 }
