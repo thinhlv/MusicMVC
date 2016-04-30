@@ -35,7 +35,7 @@ namespace MvcMusicStore.Controllers
         {
             // Create list of genres
             var genres = from genre in storeDB.Genres
-                             select genre.Name;
+                         select genre.Name;
 
             // Create your view model
             var viewModel = new StoreIndexViewModel
@@ -72,6 +72,11 @@ namespace MvcMusicStore.Controllers
             var album = storeDB.Albums.Single(a => a.AlbumId == id);
 
             return View(album);
+        }
+
+        public void getin()
+        {
+            int t = 0;
         }
     }
 }
