@@ -1,0 +1,22 @@
+C:\Users\OatOal\Desktop\C#\MvcMusicStore\bin\MvcMusicStore.dll.config
+C:\Users\OatOal\Desktop\C#\MvcMusicStore\bin\MvcMusicStore.dll
+C:\Users\OatOal\Desktop\C#\MvcMusicStore\bin\MvcMusicStore.pdb
+C:\Users\OatOal\Desktop\C#\MvcMusicStore\obj\Debug\MvcMusicStore.dll
+C:\Users\OatOal\Desktop\C#\MvcMusicStore\obj\Debug\MvcMusicStore.pdb
+C:\Users\OatOal\Desktop\C#\MvcMusicStore\bin\EntityFramework.dll
+C:\Users\OatOal\Desktop\C#\MvcMusicStore\bin\EntityFramework.xml
+D:\STUDY\000\C#\MvcMusicStore\bin\MvcMusicStore.dll.config
+D:\STUDY\000\C#\MvcMusicStore\bin\MvcMusicStore.dll
+D:\STUDY\000\C#\MvcMusicStore\bin\MvcMusicStore.pdb
+D:\STUDY\000\C#\MvcMusicStore\bin\EntityFramework.dll
+D:\STUDY\000\C#\MvcMusicStore\bin\EntityFramework.xml
+D:\STUDY\000\C#\MvcMusicStore\obj\Debug\MvcMusicStore.dll
+D:\STUDY\000\C#\MvcMusicStore\obj\Debug\MvcMusicStore.pdb
+C:\Users\OatOal\Desktop\[SE310.G22][Nhom_14][12520417][ASP.NET MVC_BaiThucHanh02]\MvcMusicStore\bin\MvcMusicStore.dll.config
+C:\Users\OatOal\Desktop\[SE310.G22][Nhom_14][12520417][ASP.NET MVC_BaiThucHanh02]\MvcMusicStore\bin\MvcMusicStore.dll
+C:\Users\OatOal\Desktop\[SE310.G22][Nhom_14][12520417][ASP.NET MVC_BaiThucHanh02]\MvcMusicStore\bin\MvcMusicStore.pdb
+C:\Users\OatOal\Desktop\[SE310.G22][Nhom_14][12520417][ASP.NET MVC_BaiThucHanh02]\MvcMusicStore\bin\EntityFramework.dll
+C:\Users\OatOal\Desktop\[SE310.G22][Nhom_14][12520417][ASP.NET MVC_BaiThucHanh02]\MvcMusicStore\bin\EntityFramework.xml
+C:\Users\OatOal\Desktop\[SE310.G22][Nhom_14][12520417][ASP.NET MVC_BaiThucHanh02]\MvcMusicStore\obj\Debug\MvcMusicStore.csprojResolveAssemblyReference.cache
+C:\Users\OatOal\Desktop\[SE310.G22][Nhom_14][12520417][ASP.NET MVC_BaiThucHanh02]\MvcMusicStore\obj\Debug\MvcMusicStore.dll
+C:\Users\OatOal\Desktop\[SE310.G22][Nhom_14][12520417][ASP.NET MVC_BaiThucHanh02]\MvcMusicStore\obj\Debug\MvcMusicStore.pdb
