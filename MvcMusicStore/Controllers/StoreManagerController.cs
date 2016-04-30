@@ -160,10 +160,5 @@ namespace MvcMusicStore.Controllers
             return RedirectToAction("Index");
         }
 
-        public int getNewInt()
-        {
-            return 1;
-        }
-
     }
 }

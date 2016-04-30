@@ -1,7 +1,0 @@
-+-----------------------------------------------------------------------------------+
-+	Em đã đổi project sang MVC 4 và dùng VS 2013 để làm ạ,							+
-+	để khỏi phải cài thêm nhiều thứ trên máy ạ.										+
-+	Một số hàm có khác trong MVC 4 nên có 2 chổ nhỏ gọi đến hàm						+ 				
-+		+ storeDB.AddToAlbum(album) biến thành storeDB.Albums.Add(album);			+	
-+		+ storeDB.DeleteObject(album) thành storeDB.Albums.Remove(album);			+
-+-----------------------------------------------------------------------------------+		
