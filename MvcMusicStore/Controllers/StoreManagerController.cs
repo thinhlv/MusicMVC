@@ -164,5 +164,10 @@ namespace MvcMusicStore.Controllers
 	{
 		return 1;
 	}
+	
+	public void()
+	{
+		int k = 5;
+	}
     }
 }

@@ -73,5 +73,10 @@ namespace MvcMusicStore.Controllers
 
             return View(album);
         }
+
+	public void()
+	{
+		int t = 0;
+	}
     }
 }
